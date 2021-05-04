@@ -10,4 +10,3 @@
 - tanto en repasar para el parcial
 - como en la realización de tareas 
 - formando parte de mi equipo en el proyecto final @octocat :+1:*
-
